@@ -5,19 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saarang2003" alt="saarang2003" /></a> </p>
 
-- 🔭 I’m currently working on [plan-it(Documentation tool)](https://github.com/saarang2003/plan-it)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saarang2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saarang2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Nextjs**
 
-- 👯 I’m looking to collaborate on **Frontend,backend and FullStack projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sarang.vercel.app/](https://my-portfolio-sarang.vercel.app/)
-
-- 💬 Ask me about **React, Javascript ,Typescript, Nodejs , mongodb**
-
-- 📫 How to reach me **saranggp2018@gmail.com**
-
-- ⚡ Fun fact **I Gaslight Chatgpt**
+- ⚡ Fun fact **I love Gaslighting Chatgpt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
